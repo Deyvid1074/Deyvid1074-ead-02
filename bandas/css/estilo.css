@@ -1,0 +1,47 @@
+header{
+	text-align:center;
+	max-width:600px;
+	margin: 0 auto;
+	position:relative
+}
+
+nav{
+	position:absolute;
+	right:0;
+}
+table{
+	border:1px solid #ccc;
+	width:100%
+	
+}
+
+.title{
+	float:left;
+}
+.atualizacao{
+	float:right;
+	color:#ccc
+}
+.top{
+	border-bottom:1px solid #ccc;
+	float:left;
+	height:500px;
+}
+
+
+
+#historia{
+	border-bottom:1px solid #ccc;
+	margin-bottom:50px;
+	float: left;
+}
+
+#integrantes{
+	display: inline-block;
+	width:100%;
+}
+
+#discografia{
+	display: inline-block;
+	width:100%
+}
